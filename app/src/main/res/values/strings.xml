@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lyrics Finder</string>
+    <string name="artist_name">Please enter artist name ..</string>
+    <string name="song_name">Please enter song name ..</string>
+    <string name="give_lyrics">Give me the lyrics</string>
+    <string name="error">Input is not valid</string>
+</resources>
